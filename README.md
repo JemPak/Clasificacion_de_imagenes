@@ -4,6 +4,7 @@ En el siguiente link se encuentra un enlace a el reporte tecnico.
 - Reporte técnico publicado como entrada de blog:
 
 Elaborado por:
+
 Jose Julian Aguirre Ramirez - joaguirrer@unal.edu.co
 Juan Jose Monsalve Patino - jumonsalvep@unal.edu.co
 Santiago Mejia Carmona - sanmejiacar@unal.edu.co
